@@ -1,15 +1,1 @@
 AF | afghanistan
-AL | albania
-DZ | algeria
-AS | american samoa
-AD | andorra
-AO | angola
-AI | anguilla
-AQ | antarctica
-AG | antigua and barbuda
-AR | argentina
-AM | armenia
-AW | aruba
-AU | australia
-AT | austria
-AZ | azerbaijan
