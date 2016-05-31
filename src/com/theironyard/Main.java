@@ -54,7 +54,7 @@ public class Main {
             throw new Exception("Invalid input");
         }
 
-        // Read and Parse
+
         HashMap countryMap = ReadFile();
 
         /*File f = new File("countries.txt");
@@ -74,7 +74,7 @@ public class Main {
         System.out.println(countryMap); */
 
 
-        // Write To File
+
         WriteFile(countryMap, letter);
     }
 }
